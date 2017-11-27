@@ -5,4 +5,4 @@ Among some circles, there is a long-standing belief that NBA referees make calls
 
 However, does referee bias really exist in the modern NBA game? We examined if some teams were more likely to collect personal fouls against using data from the 2014-15, 2015-16, and 2016-17 seasons via NBA.com.
 
-Link to Article: 
+Link to Article: https://beyondtheaverage.wordpress.com/2017/11/27/nba-refs-arent-biased/
